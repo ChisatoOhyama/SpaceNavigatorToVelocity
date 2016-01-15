@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>SpaceNavigatorToVelocity</name>
+=======
+	<name>VelocityToTargetPosition</name>
+>>>>>>> 35054976a32f31b9b3a3d4be14a8c91d31be4eff
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
